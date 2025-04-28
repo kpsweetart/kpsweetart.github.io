@@ -7,9 +7,9 @@
   <title>kp.SweetArt</title>
   <style>
     body {
-      background-color: #d0d7c9;
+      background-color: #9EAC9A;
       font-family: 'Helvetica Neue', Arial, sans-serif;
-      color: #333;
+      color: #ffffff;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -29,7 +29,7 @@
     }
     p {
       font-size: 1.2rem;
-      color: #555;
+      color: #f2f2f2;
     }
   </style>
 </head>
